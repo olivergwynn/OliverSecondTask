@@ -1,0 +1,18 @@
+{
+    "fields": [
+        {
+            "name": "year",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "annual_avg_emplvl",
+            "type": "integer",
+            "format": "default"
+        }
+    ],
+    "missingValues": [
+        "N/A",
+        ""
+    ]
+}
