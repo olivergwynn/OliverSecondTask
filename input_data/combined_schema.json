@@ -1,0 +1,198 @@
+{
+    "fields": [
+        {
+            "name": "area_fips",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "own_code",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "industry_code",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "agglvl_code",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "size_code",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "year",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "qtr",
+            "type": "string",
+            "format": "default"
+        },
+        {
+            "name": "disclosure_code",
+            "type": "string",
+            "format": "default"
+        },
+        {
+            "name": "annual_avg_estabs",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "annual_avg_emplvl",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "total_annual_wages",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "taxable_annual_wages",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "annual_contributions",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "annual_avg_wkly_wage",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "avg_annual_pay",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "lq_disclosure_code",
+            "type": "string",
+            "format": "default"
+        },
+        {
+            "name": "lq_annual_avg_estabs",
+            "type": "number",
+            "format": "default"
+        },
+        {
+            "name": "lq_annual_avg_emplvl",
+            "type": "number",
+            "format": "default"
+        },
+        {
+            "name": "lq_total_annual_wages",
+            "type": "number",
+            "format": "default"
+        },
+        {
+            "name": "lq_taxable_annual_wages",
+            "type": "number",
+            "format": "default"
+        },
+        {
+            "name": "lq_annual_contributions",
+            "type": "number",
+            "format": "default"
+        },
+        {
+            "name": "lq_annual_avg_wkly_wage",
+            "type": "number",
+            "format": "default"
+        },
+        {
+            "name": "lq_avg_annual_pay",
+            "type": "number",
+            "format": "default"
+        },
+        {
+            "name": "oty_disclosure_code",
+            "type": "string",
+            "format": "default"
+        },
+        {
+            "name": "oty_annual_avg_estabs_chg",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "oty_annual_avg_estabs_pct_chg",
+            "type": "number",
+            "format": "default"
+        },
+        {
+            "name": "oty_annual_avg_emplvl_chg",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "oty_annual_avg_emplvl_pct_chg",
+            "type": "number",
+            "format": "default"
+        },
+        {
+            "name": "oty_total_annual_wages_chg",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "oty_total_annual_wages_pct_chg",
+            "type": "number",
+            "format": "default"
+        },
+        {
+            "name": "oty_taxable_annual_wages_chg",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "oty_taxable_annual_wages_pct_chg",
+            "type": "number",
+            "format": "default"
+        },
+        {
+            "name": "oty_annual_contributions_chg",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "oty_annual_contributions_pct_chg",
+            "type": "number",
+            "format": "default"
+        },
+        {
+            "name": "oty_annual_avg_wkly_wage_chg",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "oty_annual_avg_wkly_wage_pct_chg",
+            "type": "number",
+            "format": "default"
+        },
+        {
+            "name": "oty_avg_annual_pay_chg",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "oty_avg_annual_pay_pct_chg",
+            "type": "number",
+            "format": "default"
+        }
+    ],
+    "missingValues": [
+        "N/A",
+        ""
+    ]
+}
